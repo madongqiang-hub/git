@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("版本3就是好");
         System.out.println("hot-fix分支");
         System.out.println("master 提交");
+        System.out.println("hot-fix第二次提交");
     }
 }
