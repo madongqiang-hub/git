@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("master 提交");
         System.out.println("hot-fix第二次提交");
         System.out.println("push commit");
+         System.out.println("我是你即将拉取得代码");
     }
 }
