@@ -4,5 +4,6 @@ public class HelloWorld {
         System.out.println("美丽的一天从git起");
         System.out.println("版本3就是好");
         System.out.println("hot-fix分支");
+        System.out.println("hot-fix第二次提交");
     }
 }
